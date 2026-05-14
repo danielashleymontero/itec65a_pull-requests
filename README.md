@@ -43,7 +43,12 @@ Teacher List
 2. Masambal, John Paul M.
 3. Osias, Tyron N.
 4. Moya, Warren D.
-5. Montero, Daniel Ashley C.
+5. 
+6.
+7.
+8.
+9. Montero, Daniel Ashley C.
+10.
 
 202-E List
 1. Satsatin, Carlito Y.
